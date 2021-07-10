@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zackdaspy
-- 👀 I’m interested in Real-time Web & App Development
-- 🌱 I’m currently learning node.js, java, AI & ML
-- 💞️ I’m looking to collaborate on App & Web Development
+- 👀 I’m a Quantum Computing & ML enthusiast.
+- 🌱 Applications development makes me happy but somehow coding sucks!
+- 💞️ Excited to be a part of Computational World.
 - 📫 How to reach me @zahedajafari@gmail.com
 
 <!---
