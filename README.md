@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zackdaspy
-- 👀 I’m a Quantum Computing & ML enthusiast.
-- 🌱 Applications development makes me happy but somehow coding sucks!
+- 👋 Hi, I’m @Zaheda Jafari
+- 👀 I’m an Aspiring MERN Stack Developer
+- 🌱 Applications development makes me Jubilant.
 - 💞️ Excited to be a part of Computational World.
 - 📫 How to reach me @zahedajafari@gmail.com
 
