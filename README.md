@@ -2,7 +2,7 @@
 - 👀 I’m an Aspiring MERN Stack Developer
 - 🌱 Applications development makes me Jubilant.
 - 💞️ Excited to be a part of Computational World.
-- 📫 How to reach me @zahedajafari@gmail.com
+- 📫 Reach me @zahedajafari@gmail.com
 
 <!---
 zackdaspy/zackdaspy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
